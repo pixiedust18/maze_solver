@@ -10,19 +10,3 @@ Path found: -
 
 The output will also be shown in the same way.
 
-Example:
-For this input:
-| x | | | x |
-| . | | | . |
-| . . . | . |
-| | | . | . |
-| . . . . . |
-| | | | | | |
-
-This will be the output:
-| x | | | x | 
-| - | | | - | 
-| - - - | - | 
-| | | - | - | 
-| . . - - - | 
-| | | | | | | 
